@@ -1,6 +1,6 @@
 #Lab 4 Program 3
 
-Introduction
+/* Introduction
 o	The purpose of the lab was to create a program that mimicked a basic calculator. The user should input 2 integers and an operator and have a correct calculation that displays their outcome.
 o	This Lab was conducted by Dr. Arup Kumar Ghosh
 
@@ -21,3 +21,4 @@ o	Results:
 
 Conclusions
 o	The skills I learned in this Lab have taught me to understand how to properly filter through a user’s inputs, assign the inputs to correct data types as variables, and use them to create a correct result for the user.
+*/
