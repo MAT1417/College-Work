@@ -4,7 +4,7 @@
 o	The purpose of the lab was to create a program that mimicked a basic calculator. The user should input 2 integers and an operator and have a correct calculation that displays their outcome.
 o	This Lab was conducted by Dr. Arup Kumar Ghosh
 
-**_Materials and Method_**
+## Materials and Method
 o	**Methodology**: 
     The Programming Language was C++ and the code editor being Visual Studio Code. The computers to code included my personal laptop and the school available desktop computers.
 o	**Procedures**:
@@ -13,12 +13,12 @@ o	**Procedures**:
     The calculation would be accomplished through switch and break functions. Each operator, +, -, /, and *, would be checked by the switch function and only run the proper code corresponding to the proper operator. The answer would be assigned to the last integer variable, result.
     After the calculation was completed, the user’s original 3 inputs would be displayed back, along with the result.
 
-**_Results and Discussion_**
+## Results and Discussion
 o	# Significance: 
     The use of switch and break functions was essential in properly filtering the inputs to perform the correct mathematical operation.
 o	# Results:
     I have created a program that can perform simple calculations within the command prompt by the user’s choice.
 
-**_Conclusions_**
+## Conclusions
 o	The skills I learned in this Lab have taught me to understand how to properly filter through a user’s inputs, assign the inputs to correct data types as variables, and use them to create a correct result for the user.
 */
