@@ -5,7 +5,7 @@ o	The purpose of the lab was to create a program that mimicked a basic calculato
 o	This Lab was conducted by Dr. Arup Kumar Ghosh
 
 ## Materials and Method
-### Methodology: 
+### Methodology 
     The Programming Language was C++ and the code editor being Visual Studio Code. The computers to code included my personal laptop and the school available desktop computers.
 **Procedures**:
     I first created 4 variables, assigning 3 integer variables and 1 character variable to user inputs.
