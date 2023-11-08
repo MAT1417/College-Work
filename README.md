@@ -8,10 +8,10 @@ o	This Lab was conducted by Dr. Arup Kumar Ghosh
 ### Methodology 
 * The Programming Language was C++ and the code editor being Visual Studio Code. The computers to code included my personal laptop and the school available desktop computers.
 ### Procedures
-    I first created 4 variables, assigning 3 integer variables and 1 character variable to user inputs.
-    The user prompted inputs would be 2 integers variables, input1 and input2, and a single basic math operator, addition, subtraction, multiplication, and division symbols,   to do a basic calculation, assigned to the op character variable. 
-    The calculation would be accomplished through switch and break functions. Each operator, +, -, /, and *, would be checked by the switch function and only run the proper code corresponding to the proper operator. The answer would be assigned to the last integer variable, result.
-    After the calculation was completed, the user’s original 3 inputs would be displayed back, along with the result.
+1. I first created 4 variables, assigning 3 integer variables and 1 character variable to user inputs.
+1. The user prompted inputs would be 2 integers variables, input1 and input2, and a single basic math operator, addition, subtraction, multiplication, and division symbols,   to do a basic calculation, assigned to the op character variable. 
+1. The calculation would be accomplished through switch and break functions. Each operator, +, -, /, and *, would be checked by the switch function and only run the proper code corresponding to the proper operator. The answer would be assigned to the last integer variable, result.
+1. After the calculation was completed, the user’s original 3 inputs would be displayed back, along with the result.
 
 ## Results and Discussion
 o	# Significance: 
