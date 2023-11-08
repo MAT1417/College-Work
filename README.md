@@ -1,8 +1,8 @@
 # Lab 4 Program 3
 
 ## Introduction
-o	The purpose of the lab was to create a program that mimicked a basic calculator. The user should input 2 integers and an operator and have a correct calculation that displays their outcome.
-o	This Lab was conducted by Dr. Arup Kumar Ghosh
+* The purpose of the lab was to create a program that mimicked a basic calculator. The user should input 2 integers and an operator and have a correct calculation that displays their outcome.
+* This Lab was conducted by Dr. Arup Kumar Ghosh
 
 ## Materials and Method
 ### Methodology 
@@ -14,11 +14,11 @@ o	This Lab was conducted by Dr. Arup Kumar Ghosh
 1. After the calculation was completed, the user’s original 3 inputs would be displayed back, along with the result.
 
 ## Results and Discussion
-o	# Significance: 
-    The use of switch and break functions was essential in properly filtering the inputs to perform the correct mathematical operation.
-o	# Results:
-    I have created a program that can perform simple calculations within the command prompt by the user’s choice.
+### Significance 
+* The use of switch and break functions was essential in properly filtering the inputs to perform the correct mathematical operation.
+### Results:
+* I have created a program that can perform simple calculations within the command prompt by the user’s choice.
 
 ## Conclusions
-o	The skills I learned in this Lab have taught me to understand how to properly filter through a user’s inputs, assign the inputs to correct data types as variables, and use them to create a correct result for the user.
-*/
+* The skills I learned in this Lab have taught me to understand how to properly filter through a user’s inputs, assign the inputs to correct data types as variables, and use them to create a correct result for the user.
+
